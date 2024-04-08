@@ -1,0 +1,67 @@
+body{
+    font-size: 1.5em;
+}
+
+.all{
+    display: flex;
+    flex-direction: row;
+}
+
+
+#box1{
+    height: 400px;
+    width: 300px;
+    border: solid;
+    display: flex;
+    justify-content: center;
+    background-image: linear-gradient(rgb(158, 158, 209),rgb(190, 190, 232));
+    box-shadow: 5px 5px 50px 10px rgb(158, 158, 209);
+    margin: 10px;
+}
+
+#box2{
+    height: 400px;
+    width: 300px;
+    border: solid;
+    display: flex;
+    justify-content: center;
+    background-image: linear-gradient(rgb(158, 158, 209),rgb(190, 190, 232));
+    box-shadow: 5px 5px 50px 10px rgb(158, 158, 209);
+    margin: 10px;
+}
+
+#box3{
+    height: 400px;
+    width: 300px;
+    border: solid;
+    display: flex;
+    justify-content: center;
+    background-image: linear-gradient(rgb(158, 158, 209),rgb(190, 190, 232));
+    box-shadow: 5px 5px 50px 10px rgb(158, 158, 209);
+    margin: 10px;
+}
+
+#box4{
+    height: 400px;
+    width: 300px;
+    border: solid;
+    display: flex;
+    justify-content: center;
+    background-image: linear-gradient(rgb(158, 158, 209),rgb(190, 190, 232));
+    box-shadow: 5px 5px 50px 10px rgb(158, 158, 209);
+    margin: 10px;
+
+}
+
+#box5{
+    height: 400px;
+    width: 300px;
+    border: solid;
+    display: flex;
+    justify-content: center;
+    background-image: linear-gradient(rgb(158, 158, 209),rgb(190, 190, 232));
+    box-shadow: 5px 5px 50px 10px rgb(158, 158, 209);
+    margin: 10px;
+
+}
+
